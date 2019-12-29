@@ -1,6 +1,7 @@
 
 # Task00 机器学习概述（1天）
 ## 理论部分
+[Task0](./Task0_ml_overvirew.md)
 
 - 机器学习介绍
   机器学习是什么，怎么来的，理论基础是什么，为了解决什么问题（应用）
@@ -19,11 +20,6 @@
   特征处理：归一化、标准化、离散化、one-hot编码
   模型调优：网格搜索寻优、随机搜索寻优
 
-## 练习部分
-github:
-
-
-
 
 ---
 # Task01 线性回归（2天）
@@ -40,6 +36,7 @@ github:
 
 ## 练习部分
 github:
+[Task1](./Task1_Linear_regression.ipynb)
 
 
 ---
@@ -59,9 +56,7 @@ github:
 
 ## 练习部分
 github:
-
-
-
+[Task2](./Task2_logistic_regression.ipynb)
 ---
 
 # Task03：决策树（2天）
@@ -76,10 +71,7 @@ github:
 
 ## 练习部分
 github:
-
-
-
-
+[Task3](./Task3_decision_tree.ipynb)
 ---
 
 # Task04：聚类（2天）
@@ -95,6 +87,7 @@ github:
 
 ## 练习部分
 github:
+[Task4](./Task4_cluster_plus.ipynb)
 
 
 ---
@@ -110,13 +103,14 @@ github:
 
 ## 练习部分
 github:
+[Task5](./Task5_bayes_plus.ipynb)
 
 ------
 
-# Task06：KNN(开发中)（2天）
+# Task06：KNN（2天）
+[Task6](./Task6_knn.ipynb)
 
 ## 理论部分
-
 - KNN分类原理：分类决策规则、算法过程
 - KNN回归原理：回归决策规则、算法过程
 - 搜索优化：KD树
@@ -124,6 +118,8 @@ github:
 - 应用背景及优缺点
 
 ## 练习部分
+github:
+[Task6](./Task6_knn.ipynb)
 
 
 
